@@ -1,16 +1,28 @@
 ## Oiii eu sou o VInicius Costa, Desenvolvedor front end
 <div style="display: inline_block">
 
-<a href="https://github.com/ViniciusCosta126/github-readme-stats" style="margin_left:20px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusCosta126&count_private=true&hide=stars&show_icons=true&theme=cobalt" />
+<a href="https://github.com/ViniciusCosta126/github-readme-stats" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusCosta126&count_private=true&hide=stars&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/ViniciusCosta126/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=typescript" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=typescript&theme=dark" />
 </a>
 </div>
 <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medSearch)](https://github.com/ViniciusCosta126/github-readme-stats)
+
+### Repositorios
+<a href="https://github.com/ViniciusCosta126/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medSearch&theme=dark" />
+</a>
+<a href="https://github.com/ViniciusCosta126/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=gastos-django&theme=dark" />
+</a>
+<a href="https://github.com/ViniciusCosta126/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=mecajato&theme=dark" />
+</a>
+
+
 <br/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
