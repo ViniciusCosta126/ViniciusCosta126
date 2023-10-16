@@ -1,9 +1,9 @@
 ## Oiii eu sou o VInicius Costa, Desenvolvedor front end
-<div style="display:flex; gap:20px;">
+<div style="display: inline_block">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCosta126&count_private=true&hide=stars&show_icons=true&theme=cobalt)](https://github.com/ViniciusCosta126/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126)](https://github.com/ViniciusCosta126/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=typescript)](https://github.com/ViniciusCosta126/github-readme-stats)
   
 </div>
 
