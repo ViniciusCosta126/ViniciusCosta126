@@ -12,16 +12,16 @@
 <br/>
 
 ### Repositorios
-<a href="https://github.com/ViniciusCosta126/github-readme-stats">
+<a href="https://github.com/ViniciusCosta126/medSearch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medSearch&theme=dark" />
 </a>
-<a href="https://github.com/ViniciusCosta126/github-readme-stats">
+<a href="https://github.com/ViniciusCosta126/gastos-django">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=gastos-django&theme=dark" />
 </a>
-<a href="https://github.com/ViniciusCosta126/github-readme-stats">
+<a href="https://github.com/ViniciusCosta126/mecajato">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=mecajato&theme=dark" />
 </a>
-<a href="https://github.com/ViniciusCosta126/github-readme-stats">
+<a href="https://github.com/ViniciusCosta126/escola-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=escola-api&theme=dark" />
 </a>
 
