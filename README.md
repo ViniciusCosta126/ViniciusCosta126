@@ -10,9 +10,8 @@
 </a>
 </div>
 <br/>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusCosta126)](https://github.com/ViniciusCosta126/github-readme-stats)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medSearch&repo=gastos-django&repo=mecajato)](https://github.com/ViniciusCosta126/github-readme-stats)
+<br/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
