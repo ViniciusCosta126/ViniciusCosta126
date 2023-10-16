@@ -25,6 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=escola-api&theme=dark" />
 </a>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusCosta126)](https://github.com/ViniciusCosta126/github-readme-stats)
 
 <br/>
 <div style="display: inline_block"><br>
