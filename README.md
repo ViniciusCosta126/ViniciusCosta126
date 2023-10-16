@@ -1,10 +1,14 @@
 ## Oiii eu sou o VInicius Costa, Desenvolvedor front end
 <div style="display: inline_block">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCosta126&count_private=true&hide=stars&show_icons=true&theme=cobalt)](https://github.com/ViniciusCosta126/github-readme-stats) 
+<a href="https://github.com/ViniciusCosta126/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusCosta126&count_private=true&hide=stars&show_icons=true&theme=cobalt" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=typescript)](https://github.com/ViniciusCosta126/github-readme-stats)
-  
+<a href="https://github.com/ViniciusCosta126/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=typescript" />
+</a>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusCosta126)](https://github.com/ViniciusCosta126/github-readme-stats)
 </div>
 
 
