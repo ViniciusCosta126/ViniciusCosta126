@@ -1,31 +1,31 @@
-## Oiii eu sou o VInicius Costa, Desenvolvedor front end
+## Ola eu sou o VInicius Costa, Desenvolvedor front end
 <div style="display: inline_block">
 
 <a href="https://github.com/ViniciusCosta126/github-readme-stats" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusCosta126&count_private=true&hide=stars&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusCosta126&count_private=true&hide=stars&show_icons=true&theme=dark&cache_seconds=14400" />
 </a>
 
 <a href="https://github.com/ViniciusCosta126/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=typescript&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=typescript,java,scss,sass&theme=dark&cache_seconds=14400" />
 </a>
 </div>
 <br/>
 
 ### Repositorios
 <a href="https://github.com/ViniciusCosta126/medSearch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medSearch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medSearch&theme=dark&cache_seconds=14400" />
 </a>
 <a href="https://github.com/ViniciusCosta126/gastos-django">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=gastos-django&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=gastos-django&theme=dark&cache_seconds=14400" />
 </a>
 <a href="https://github.com/ViniciusCosta126/mecajato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=mecajato&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=mecajato&theme=dark&cache_seconds=14400" />
 </a>
 <a href="https://github.com/ViniciusCosta126/escola-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=escola-api&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=escola-api&theme=dark&cache_seconds=14400" />
 </a>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusCosta126)](https://github.com/ViniciusCosta126/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusCosta126&cache_seconds=14400)](https://github.com/ViniciusCosta126/github-readme-stats)
 
 <br/>
 <div style="display: inline_block"><br>
