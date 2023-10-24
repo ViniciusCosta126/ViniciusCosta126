@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medSearch&theme=dark&cache_seconds=14400" />
 </a>
 <a href="https://github.com/ViniciusCosta126/medicSearchRest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=gastos-django&theme=dark&cache_seconds=14400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medicSearchRest&theme=dark&cache_seconds=14400" />
 </a>
 <a href="https://github.com/ViniciusCosta126/gastos-django">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=gastos-django&theme=dark&cache_seconds=14400" />
