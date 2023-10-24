@@ -9,27 +9,31 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=typescript,java,scss,sass&theme=dark&cache_seconds=14400" />
 </a>
 </div>
-<br/>
+
 
 ### Repositorios
+<div>
 <a href="https://github.com/ViniciusCosta126/medSearch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medSearch&theme=dark&cache_seconds=14400" />
 </a>
 <a href="https://github.com/ViniciusCosta126/medicSearchRest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medicSearchRest&theme=dark&cache_seconds=14400" />
 </a>
+<br/><br/>
 <a href="https://github.com/ViniciusCosta126/gastos-django">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=gastos-django&theme=dark&cache_seconds=14400" />
 </a>
 <a href="https://github.com/ViniciusCosta126/mecajato">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=mecajato&theme=dark&cache_seconds=14400" />
 </a>
+<br/><br/>
 <a href="https://github.com/ViniciusCosta126/escola-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=escola-api&theme=dark&cache_seconds=14400" />
 </a>
+<br/><br/>
+</div>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusCosta126&cache_seconds=14400)](https://github.com/ViniciusCosta126/github-readme-stats)
-
 <br/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
