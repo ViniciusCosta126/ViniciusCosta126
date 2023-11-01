@@ -23,8 +23,8 @@
 <a href="https://github.com/ViniciusCosta126/gastos-django">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=gastos-django&theme=dark&cache_seconds=14400" />
 </a>
-<a href="https://github.com/ViniciusCosta126/mecajato">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=mecajato&theme=dark&cache_seconds=14400" />
+<a href="https://github.com/ViniciusCosta126/livraria-node">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=livraria-node&theme=dark&cache_seconds=14400" />
 </a>
 <br/><br/>
 <a href="https://github.com/ViniciusCosta126/escola-api">
