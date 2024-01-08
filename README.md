@@ -1,4 +1,4 @@
-## Ola eu sou o Vinicius Costa, Desenvolvedor front end
+## Ola eu sou o Vinicius Costa, Desenvolvedor full stack
 <div style="display: inline_block">
 
 <a href="https://github.com/ViniciusCosta126/github-readme-stats" >
