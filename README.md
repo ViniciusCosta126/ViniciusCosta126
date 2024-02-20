@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://github.com/ViniciusCosta126/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=java,scss,sass,ruby,Objective-c,Objective-c%2B%2B,starlark&theme=dark&cache_seconds=14400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=scss,sass,ruby,Objective-c,Objective-c%2B%2B,starlark&theme=dark&cache_seconds=14400" />
 </a>
 </div>
 
