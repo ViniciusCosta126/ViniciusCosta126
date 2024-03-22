@@ -32,8 +32,6 @@
 </a>
 <br/><br/>
 </div>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusCosta126&cache_seconds=14400)](https://github.com/ViniciusCosta126/github-readme-stats)
 <br/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
