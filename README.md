@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusCosta126&count_private=true&hide=stars&show_icons=true&theme=dark&cache_seconds=14400" />
 </a>
 <a href="https://github.com/ViniciusCosta126/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=html,css,scss,sass,ruby,Objective-c%2B%2B,typescript,starlark&theme=dark&cache_seconds=14400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=html,css,scss,sass,ruby,Objective-c%2B%2B,typescript,java,starlark&theme=dark&cache_seconds=14400" />
 </a>
 </div>
 
