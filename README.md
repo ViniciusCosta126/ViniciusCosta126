@@ -24,8 +24,8 @@
 <a href="https://github.com/ViniciusCosta126/PDO-PHP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=PDO-PHP&theme=dark&cache_seconds=14400" />
 </a>
-<a href="https://github.com/ViniciusCosta126/medicSearchRest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medicSearchRest&theme=dark&cache_seconds=14400" />
+<a href="https://github.com/ViniciusCosta126/doceria-laravel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=doceria-laravel&theme=dark&cache_seconds=14400" />
 </a>
   <br/><br/>
 <a href="https://github.com/ViniciusCosta126/medSearch">
