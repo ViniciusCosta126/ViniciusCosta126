@@ -10,30 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCosta126&layout=compact&hide=html,css,scss,sass,ruby,Objective-c%2B%2B,typescript,java,starlark&theme=dark&cache_seconds=14400" />
 </a>
 </div>
-
-### Repositorios
-
-<div>
-<a href="https://github.com/ViniciusCosta126/controle-series-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=controle-series-laravel&theme=dark&cache_seconds=14400" />
-</a>
-<a href="https://github.com/ViniciusCosta126/estoque-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=estoque-laravel&theme=dark&cache_seconds=14400" />
-</a>
-<br/><br/>
-<a href="https://github.com/ViniciusCosta126/PDO-PHP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=PDO-PHP&theme=dark&cache_seconds=14400" />
-</a>
-<a href="https://github.com/ViniciusCosta126/doceria-laravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=doceria-laravel&theme=dark&cache_seconds=14400" />
-</a>
-  <br/><br/>
-<a href="https://github.com/ViniciusCosta126/medSearch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCosta126&repo=medSearch&theme=dark&cache_seconds=14400" />
-</a>
-  
-<br/>
-</div>
 <br/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
