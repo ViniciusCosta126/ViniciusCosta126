@@ -1,5 +1,5 @@
 ## Ola eu sou o Vinicius Costa, Desenvolvedor full stack
-#### Desenvolvedor Full Stack com expertise em HTML, CSS, SCSS, JavaScript, PHP,MySQL e laravel, demonstrando habilidades intermediárias em integração de APIs e resolução de desafios técnicos. Experiência na criação de soluções robustas e responsivas para aplicações web, garantindo uma experiência consistente em dispositivos desktop e móveis. Atua tanto no Frontend quanto no Backend, colaborando efetivamente com equipes multidisciplinares para transformar conceitos em código funcional. Comprometido em manter e atualizar projetos, garantindo sua relevância e segurança. Sempre buscando aprimorar suas habilidades técnicas para entregar projetos de alta qualidade e superar desafios no desenvolvimento de software.
+#### Desenvolvedor Full Stack com mais de 3 anos de experiência em Laravel, criação de APIs RESTful, autenticação, mensageria e aplicações em tempo real com Socket.IO. Conhecimento sólido em bancos de dados relacionais (MySQL/PostgreSQL) e NoSQL (MongoDB). Experiência com Livewire, JavaScript, Bootstrap e boas práticas de versionamento com Git.Forte atuação em times ágeis, com foco em performance, segurança e escalabilidade.
 
 <br/>
 <div style="display: inline_block">
