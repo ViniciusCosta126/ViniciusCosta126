@@ -1,6 +1,6 @@
 ## Olá, eu sou Vinicius Costa 👋
 
-#### Desenvolvedor Full Stack com mais de 3 anos de experiência em PHP, Laravel, JavaScript, MySQL, PostgreSQL e MongoDB. Atuo no desenvolvimento de aplicações web, APIs RESTful, autenticação, integrações e sistemas em tempo real.
+#### Desenvolvedor Full Stack com mais de 5 anos de experiência em PHP, Laravel, JavaScript, MySQL, PostgreSQL e MongoDB. Atuo no desenvolvimento de aplicações web, APIs RESTful, autenticação, integrações e sistemas em tempo real.
 
 #### Atualmente desenvolvo projetos utilizando C# e .NET, com foco em backend, arquitetura de software e boas práticas de desenvolvimento.
 
